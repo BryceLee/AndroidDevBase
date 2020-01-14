@@ -1,1 +1,1 @@
-include ':app', ':brycelib'
+include ':app', ':bryceAppBase'
